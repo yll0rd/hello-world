@@ -1,4 +1,2 @@
-def printh:
-  print("Hello World")
-  
-printh()
+print("Hello World")
+
